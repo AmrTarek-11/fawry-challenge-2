@@ -12,14 +12,14 @@ The system supports basic operations such as:
 
  Features
 
-  Add Books: Add PaperBook, EBook, or ShowcaseBook to inventory.
-  Purchase: purchase books if it is for sale
-  PaperBooks: Checks stock before purchase.
-  EBooks: Sends download via email simulation.
-  ShowcaseBooks: Cannot be purchased.
-  Remove Old Books: Removes books older than a given number of years from the current year.
-  Type Handling: Uses abstract class Book and inheritance for different book types.
-  Console Output: All outputs are printed to the terminal for simplicity.
+  1-Add Books: Add PaperBook, EBook, or ShowcaseBook to inventory.
+  2-Purchase: purchase books if it is for sale
+  3-PaperBooks: Checks stock before purchase.
+  4-EBooks: Sends download via email simulation.
+  5-ShowcaseBooks: Cannot be purchased.
+  6-Remove Old Books: Removes books older than a given number of years from the current year.
+  7-Type Handling: Uses abstract class Book and inheritance for different book types.
+  8-Console Output: All outputs are printed to the terminal for simplicity.
 
 
 
